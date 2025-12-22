@@ -1,4 +1,5 @@
 # SJTU Canvas Video Downloader
+![143601766394163_ pic](https://github.com/user-attachments/assets/3f66dae1-1d64-458b-8115-8171c7e76fd1)
 
 这是一个用于从 SJTU Canvas 平台下载教学视频的浏览器脚本工具。
 
